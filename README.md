@@ -1,5 +1,11 @@
 # P2P Application Project
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Project Plan](#project-workflow)
+- [Code Highlights](#Code_Highlights)
+
 ## Overview
 This project implements a Peer-to-Peer (P2P) application, consisting of an index server and multiple peers. The system allows peers to exchange content through the index server, enabling content registration, search, download, and deregistration functionalities. The communication utilizes **UDP** for interaction with the index server and **TCP** for content transfer.
 
